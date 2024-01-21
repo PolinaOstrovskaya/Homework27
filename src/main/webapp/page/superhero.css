@@ -1,0 +1,35 @@
+.text{
+    margin-top: -467px;
+    margin-left: 370px;
+}
+.nav{
+   background-color:white;
+}
+.personage{
+     background-color: black;
+     color: white;
+ }
+h1
+{
+    margin-left:50px;
+}
+.pic{
+    margin:50px;
+}
+.pic1{
+    float: right;
+    margin: 50px;
+}
+.pic2{
+    margin-left: 50px;
+}
+.text1{
+    margin-left: 395px;
+    margin-top:-345px;
+    font-size: larger;
+}
+.text2{
+    margin-left: 50px;
+    margin-top: 80px;
+    font-size: larger;
+}
